@@ -17,6 +17,10 @@
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 
 	<?php wp_head(); ?>
+<meta name="google-adsense-account" content="ca-pub-4975722281035685">
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4975722281035685"
+     crossorigin="anonymous"></script>
+
 </head>
 
 <body <?php body_class(); ?>>
